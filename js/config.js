@@ -9,7 +9,7 @@
    不填 = 共享功能关闭，但「私藏」记忆照常可用。
    ============================================================ */
 window.APP_CONFIG = {
-  SUPABASE_URL: '',          // 你的 Supabase Project URL，形如 https://xxxx.supabase.co
-  SUPABASE_ANON_KEY: '',     // 你的 anon public key（Project Settings → API → anon public key）
+  SUPABASE_URL: 'https://ywxvahajgncxacshjnmq.supabase.co',          // 你的 Supabase Project URL，形如 https://xxxx.supabase.co
+  SUPABASE_ANON_KEY: 'sb_publishable_ke5rS4txYmG9hQ4-HJ_jRw_FaqOUbF8',     // 你的 anon public key（Project Settings → API → anon public key）
   ADMIN_DEVICE_IDS: []       // 管理员设备 ID（字符串数组）；填完后回忆墙照片出现删除按钮；留空则无管理功能
 };
